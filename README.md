@@ -1,4 +1,5 @@
 ![Web development and Network Engineering](https://github.com/Monmoy042/khaled-md-saifullah/blob/main/Portfolio-banner.png)
+![Profile views](https://gpvc.arturio.dev/Monmoy042)  
 
 # Hi there 👋, I'm Khaled Md. Saifullah
 
@@ -25,9 +26,6 @@ I am Khaled Md. Saifullah. I am a graduate in Electrical and Electronic Engineer
 ## Github Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Monmoy042&show_icons=true)  
 
-
 ![GitHub metrics](https://metrics.lecoq.io/Monmoy042)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Monmoy042)  
-
-![Profile views](https://gpvc.arturio.dev/Monmoy042)  
