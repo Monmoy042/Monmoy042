@@ -1,10 +1,19 @@
-### Hi there 👋, Khaled Md. Saifullah
-#### Web development and Network Engineering
 ![Web development and Network Engineering](https://github.com/Monmoy042/khaled-md-saifullah/blob/main/Portfolio-banner.png)
+
+### Hi there 👋, I'm Khaled Md. Saifullah
+#### Web developer & Network Administrator
 
 I am Khaled Md. Saifullah. I am a graduate in Electrical and Electronic Engineering. I am from Bangladesh. I live in the capital city(Dhaka) of Bangladesh. I am skilled at web development and computer networking. I know several tools and stuffs that are related to the web development. Also I know about basics to advance knowledge on computer network and system administration. My favorite programming language is JavaScript.
 
-Skills: HTML | CSS | JS | NodeJs | System Administration | Bash Scripting | Network Infrastructure 
+## Skills and Experience
+* 🖥️ HTML | CSS | Bootstrap
+* 💡 JavaScript | NodeJS | Express JS
+* 🗄️ MongoDB
+* 💻 Building Network Infrastructure
+* 🔁 CISCO & MikroTik Router Configuration
+* ✅ System Administration
+* ⬛ Bash Scripting
+* 🟧 IoT | Arduino Project
 
 - 🔭 I’m currently working on RHCSA 
 - 🌱 I’m currently learning Bash Scripting 
