@@ -22,11 +22,9 @@ I am Khaled Md. Saifullah. I am a graduate in Electrical and Electronic Engineer
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Monmoy042)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Monmoy042)](https://github.com/anuraghazra/github-readme-stats)
-
+## Github Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Monmoy042&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Monmoy042)  
 
 ![GitHub metrics](https://metrics.lecoq.io/Monmoy042)  
 
