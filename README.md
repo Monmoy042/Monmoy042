@@ -25,6 +25,5 @@ I am from Bangladesh(🇧🇩). I live in the capital city(Dhaka) of Bangladesh.
 ## Github Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Monmoy042&show_icons=true)  
 
+## Github Matrics
 ![GitHub metrics](https://metrics.lecoq.io/Monmoy042)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Monmoy042)  
