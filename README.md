@@ -3,7 +3,7 @@
 
 # Hi there 👋, I'm Khaled Md. Saifullah
 
-I am Khaled Md. Saifullah. I am a graduate in Electrical and Electronic Engineering. I am from Bangladesh. I live in the capital city(Dhaka) of Bangladesh. I am skilled at web development and computer networking. I know several tools and stuffs that are related to the web development. Also I know about basics to advance knowledge on computer network and system administration. My favorite programming language is JavaScript.
+I am from Bangladesh(🇧🇩). I live in the capital city(Dhaka) of Bangladesh. I am skilled at web development and system administration. I know several tools and stuffs that are related to the web development. Also I know about basics to advance knowledge on computer networking and system administration. My favorite programming language is JavaScript. I would love to visit new places.
 
 ## Skills and Experience
 * 🖥️ HTML | CSS | Bootstrap
@@ -17,7 +17,6 @@ I am Khaled Md. Saifullah. I am a graduate in Electrical and Electronic Engineer
 
 - 🔭 I’m currently working on RHCSA 
 - 🌱 I’m currently learning Bash Scripting 
-
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Monmoy042)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/khaled-md-saifullah/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/saifullah.monmoy/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackster.svg' alt='hackster' height='40'>](https://www.hackster.io/KMsaifullah)  
 
