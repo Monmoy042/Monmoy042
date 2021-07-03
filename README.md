@@ -1,5 +1,27 @@
-### Hello there 👋
+### Hi there 👋, Khaled Md. Saifullah
+#### Web development and Network Engineering
+![Web development and Network Engineering](https://github.com/Monmoy042/khaled-md-saifullah/blob/main/Portfolio-banner.png)
 
-I am Khaled Md. Saifullah. I am a graduate in Electrical and Electronic Engineering. I am from Bangladesh. I live in the capital city(Dhaka) of Bangladesh. I am skilled at web development and computer networking. I know several tools and stuffs that are related to the web development. Also I know about basics to advance knowledge on computer network and system administration. My favorite programming language is JavaScript. 
+I am Khaled Md. Saifullah. I am a graduate in Electrical and Electronic Engineering. I am from Bangladesh. I live in the capital city(Dhaka) of Bangladesh. I am skilled at web development and computer networking. I know several tools and stuffs that are related to the web development. Also I know about basics to advance knowledge on computer network and system administration. My favorite programming language is JavaScript.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=monmoy042)](https://github.com/anuraghazra/github-readme-stats)
+Skills: HTML | CSS | JS | NodeJs | System Administration | Bash Scripting | Network Infrastructure 
+
+- 🔭 I’m currently working on RHCSA 
+- 🌱 I’m currently learning Bash Scripting 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Monmoy042)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/khaled-md-saifullah//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/saifullah.monmoy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackster.svg' alt='hackster' height='40'>](https://www.hackster.io/KMsaifullah)  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Monmoy042)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Monmoy042)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Monmoy042&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Monmoy042)  
+
+![GitHub metrics](https://metrics.lecoq.io/Monmoy042)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Monmoy042)  
+
+![Profile views](https://gpvc.arturio.dev/Monmoy042)  
