@@ -1,7 +1,6 @@
 ![Web developer](https://github.com/Monmoy042/Monmoy042/blob/main/Profile_Banner.png)
-![Profile views](https://gpvc.arturio.dev/Monmoy042)
 
-# Hi there 👋, I'm Khaled Md. Saifullah
+# Hi there 👋, I'm Khaled Md Saifullah
 
 I am from Bangladesh(🇧🇩). I am skilled at Web Development and System Administration. I know several tools and stuffs that are related to the web development. Also I know about basics to advance knowledge on computer networking and system administration. My favorite programming language is JavaScript. I would love to visit new places.
 
